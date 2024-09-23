@@ -4,7 +4,7 @@ import java.io.ObjectOutputStream;
 import java.io.PrintStream;
 import java.net.Socket;
 
-class ClentClass {
+class ClassClient {
     public static void main(String[] args){
         try{
             MessageChat msg = new MessageChat();
